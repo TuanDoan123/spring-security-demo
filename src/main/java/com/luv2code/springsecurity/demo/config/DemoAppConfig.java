@@ -18,7 +18,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 import com.mchange.v2.c3p0.ComboPooledDataSource;
 
 @Configuration
-@EnableWebMvc
+//@EnableWebMvc
 @ComponentScan(basePackages="com.luv2code.springsecurity.demo")
 @PropertySource("classpath:persistence-mysql.properties")
 public class DemoAppConfig {

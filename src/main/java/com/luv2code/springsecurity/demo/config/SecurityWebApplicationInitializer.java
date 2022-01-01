@@ -7,3 +7,9 @@ public class SecurityWebApplicationInitializer
 {
 
 }
+
+/*package com.luv2code.springsecurity.demo.config;
+
+public class SecurityWebApplicationInitializer{
+
+}*/
